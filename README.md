@@ -211,39 +211,3 @@ mvn spring-boot:run
 Application will start on:
 
 http://localhost:8080
-👨‍💻 My Contributions
-
-Developed and secured REST APIs using Spring Boot
-
-Implemented real-time claim status updates using Kafka
-
-Integrated Redis caching to improve system performance
-
-Implemented OAuth2 + JWT-based security
-
-Configured Log4j2 and centralized logging with Splunk
-
-Wrote unit tests ensuring 80%+ coverage
-
-Worked in Agile Scrum environment
-
-📈 Key Highlights
-
-Enterprise-style backend architecture
-
-Event-driven processing using Kafka
-
-Optimized performance with Redis caching
-
-Secure API design with OAuth2 & JWT
-
-CI/CD automation with Docker & Jenkins
-
-Production-ready deployment approach
-
-📄 License
-
-This project is for educational and portfolio purposes.
-
-
----
