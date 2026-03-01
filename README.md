@@ -247,13 +247,3 @@ This project is for educational and portfolio purposes.
 
 
 ---
-
-✅ Now:
-
-1. Open your GitHub repository  
-2. Click **Add file → Create new file**  
-3. Name it: `README.md`  
-4. Paste this content  
-5. Commit  
-
----
