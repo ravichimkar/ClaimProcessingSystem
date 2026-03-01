@@ -197,17 +197,56 @@ Flow:
 - MySQL
 - Redis
 - Kafka
+## 🚀 Clone, Build & Run
 
 ### Clone Repository
 
 ```bash
 git clone https://github.com/ravichimkar/ClaimProcessingSystem.git
 cd ClaimProcessingSystem
-Build Project
+```
+
+### Build the Project
+
+```bash
 mvn clean install
-Run Application
+```
+
+### Run the Application
+
+```bash
 mvn spring-boot:run
+```
 
-Application will start on:
+After successful startup, the application will be available at:
 
-http://localhost:8080
+👉 http://localhost:8080
+
+---
+
+## 👨‍💻 My Contributions
+
+- Designed and developed secure REST APIs using Spring Boot and Java 11  
+- Implemented real-time claim status updates using Apache Kafka (event-driven architecture)  
+- Integrated Redis caching to improve performance and reduce database load  
+- Secured APIs using OAuth2 and JWT-based authentication & authorization  
+- Configured Log4j2 logging and centralized monitoring using Splunk  
+- Developed comprehensive unit tests using JUnit & Mockito (80%+ test coverage)  
+- Worked in Agile Scrum-based development environment  
+
+---
+
+## 📈 Key Highlights
+
+- Enterprise-style monolithic backend architecture  
+- Event-driven processing using Kafka for asynchronous communication  
+- Performance optimization through Redis in-memory caching  
+- Secure API design with token validation and role-based access control  
+- Automated CI/CD pipeline using Jenkins, Docker, and Kubernetes  
+- Production-ready deployment strategy with blue-green releases  
+
+---
+
+## 📄 License
+
+This project is developed for educational and portfolio demonstration purposes.
